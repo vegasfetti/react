@@ -1,0 +1,12 @@
+.swiper-cards{
+    margin-top: 30px;
+    padding-bottom: 50px;
+    width: 265px;
+    height: 450px;
+}
+
+.swiper-slide{
+    border: 1px solid #eee;
+    overflow: hidden;
+    border-radius: 15px;
+}
